@@ -53,3 +53,9 @@ https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-US.pdf#zoom=100
 ![image](https://github.com/toarnabtrainer/USA_BA/assets/111301975/c01fae83-eab4-4353-860e-84159f8a82ca)
 
 <hr>
+
+## UML Diagram Classwork on "ATM System"
+
+![image](https://github.com/toarnabtrainer/USA_BA_293/assets/111301975/754cb553-5c6b-4e37-91d1-fb8000fab2fb)
+
+<hr>
